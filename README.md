@@ -1,5 +1,8 @@
 # 📚 Educational RAG Chatbot
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/poorvika12-hub/Educational-RAG-Chatbot/blob/main/Educational_RAG.ipynb)
+
+
 ## Overview
 
 This project implements a Retrieval-Augmented Generation (RAG) chatbot using Python and Google Colab.
